@@ -1,1 +1,1 @@
-# TanBaoFeng
+Discovery of a new criterion for predicting glass-forming ability based on symbolic regression and artificial neural network: Here you can find the original data set we used for the experiment and the python code of the research.
